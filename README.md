@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This repository walks through the full LLM application stack in self-contained, runnable scripts. Each module isolates a specific concept — from raw embeddings and vector stores to Hybrid Search with Reciprocal Rank Fusion (RRF) — so you can study, extend, or drop any component into your own project.
+This repository walks through the full LLM application stack in self-contained, runnable scripts. Each module isolates a specific concept — from raw embeddings and vector stores to Hybrid Search with Reciprocal Rank Fusion (RRF)
 
 **Key technologies:** LangChain · ChromaDB · BM25 · HuggingFace Embeddings · Groq · Google Gemini
 
